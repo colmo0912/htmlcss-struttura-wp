@@ -25,14 +25,21 @@
 
 }
 
+.title {
+
+    padding: 20px 0 20px 0;
+    background-color: lightskyblue;
+    margin: auto;
+    width: 80%;
+    margin-top: 20px;
+}
+
 main {
 
     width: 80%;
     height: 400px;
     background-color: lightskyblue;
     margin: auto;
-    margin-top: 20px;
-    padding-top: 30px;
 
 }
 
@@ -81,6 +88,7 @@ footer {
     background-color: rgb(144, 63, 236);
     margin: auto;
     margin-top: 5px;
+    margin-bottom: 20px;
 }
 
 
